@@ -187,3 +187,10 @@
 2-3.場景視圖之用例圖設計建模<br>
 群眾用例圖、基層工作人員用例圖、系統管理員用例圖以及主管領導用例圖分別如圖所示。<br>
 </h3>
+
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/4.jpg)
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/5.jpg)
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/6.jpg)
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/7.jpg)
+
+<h3>2-3-2.精準扶貧管理系統關鍵用例描述</h3>
