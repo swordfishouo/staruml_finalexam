@@ -194,3 +194,15 @@
 ![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/7.jpg)
 
 <h3>2-3-2.精準扶貧管理系統關鍵用例描述</h3>
+
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/L2.jpg)
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/L3.jpg)
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/L4.jpg)
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/L5.jpg)
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/L6.jpg)
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/L7.jpg)
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/L8.jpg)
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/L9.jpg)
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/L10.jpg)
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/L11.jpg)
+
