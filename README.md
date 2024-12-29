@@ -312,6 +312,8 @@
 
 <h2>3-2.消息通知模塊管理模塊采用工廠方法模型設計方案類圖<br></h2>
 
+![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/19.jpg)
+
 <h3>
 【說明】<br>
 1.精準扶貧管理系統的消息通知模塊主要包括用戶申請、用戶評論、用戶留言以及公告通知的管理。<br>
