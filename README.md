@@ -46,7 +46,7 @@
 軟件架構常用模型就是視圖模型，類似於RM-ODP的視點模型，可以從多個角度描述一個覆雜的軟件系統。最流行的視圖模型就是"4+1"視圖模型，它由五個視圖組成，包括場景視圖、邏輯視圖、進程視圖、物理視圖和開發視圖，如圖所示。我們可以粗略地把"4+1"視圖模型看作是參照軟件生命周期五個階段建立的視圖模型，雖然實際上每個視圖描述的內容並不是局限於生命周期的一個階段，但顯而易見的是，除了結構要素之外，這種視圖模型也包含了流程要素。
 </h3>
 
-![image](https://github.com/swordfishouo/staruml_finalexam/blob/main/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTcwNTA3MTcyMDM2NTUz.jpg)
+![image]([https://github.com/swordfishouo/staruml_finalexam/blob/main/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTcwNTA3MTcyMDM2NTUz.jpg](https://github.com/swordfishouo/staruml_finalexam/blob/main/1.jpg))
 
 <h3>
 "4+1"視圖模型實際上使得有不同需求的人員能夠得到他們對於軟件體系結構想要了解的東西。系統工程師先從物理視圖，然後從過程視圖靠近體系結構。最終使用者、客戶、數據專家從邏輯視圖看體系結構；項目經理、軟件配置人員從開發視圖看體系結構。<br>
